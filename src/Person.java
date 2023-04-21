@@ -1,5 +1,7 @@
+import java.math.BigDecimal;
+
 class Person {
-        private String name;
+        private BigDecimal name;
         private String surname;
         private int age;
 }
