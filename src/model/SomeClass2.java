@@ -1,6 +1,7 @@
 package model;
 
 public class SomeClass2 {
-    private String hahahaha;
-    private String someMethod;
+    private int hahaha;
+    private String name;
+
 }
